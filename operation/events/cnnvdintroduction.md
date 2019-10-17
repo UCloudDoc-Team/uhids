@@ -16,14 +16,14 @@ Security”Security”，简称 “ CNNVD”），是中国信息安全测评中
 
 **如何使用CNNVD号检索**
 
-![](/images/operation/events/cnnvd号检索.png)
+![](/images/operation/cnnvd号检索.png)
 
 **如何查看漏洞对应cnnvd号**
 
 每个漏洞均包含CNNVD漏洞库对所收录的漏洞信息给予统一的编码标识 
-![](/images/operation/events/cnnvd号展示.png)
+![](/images/operation/cnnvd号展示.png)
 
 
 **兼容性logo**
 
-![](/images/operation/events/cnnvd_logo.png)
+![](/images/operation/cnnvd_logo.png)
