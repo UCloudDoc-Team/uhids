@@ -4,7 +4,7 @@
 
 **漏洞兼容性说明**
 
-本系统使用国家信息安全漏洞库作为漏洞库数据来演
+本产品UHIDS使用国家信息安全漏洞库作为漏洞库数据来源
 
 国家信息安全漏洞库（“China National Vulnerability Database of Information
 Security”Security”，简称 “ CNNVD”），是中国信息安全测评中心为切实履行漏洞分析和风
