@@ -1,4 +1,4 @@
-{{indexmenu_n>3}}
+
 
 # 功能原理和检测周期
 
@@ -6,4 +6,4 @@
 
 **目录**
 
-{{indexmenu>:security:uhids:function#1|tsort dsort}}
+
