@@ -25,7 +25,7 @@
     * 日志
         * [日志功能](security/uhids/operation/log/introduce)
     * 快照
-        * [数据快照](security/uhids/operation/netdetection/introduce)
+        * [数据快照](security/uhids/operation/netdetect/introduce)
     * [Agent管理](security/uhids/operation/agent)
     * [白名单](security/uhids/operation/whitelist)
     * [告警设置](security/uhids/operation/alert)
