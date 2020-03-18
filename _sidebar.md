@@ -22,10 +22,7 @@
         * [登录安全](security/uhids/operation/events/login)
         * [主机漏洞](security/uhids/operation/events/bug)
         * [漏洞库说明](security/uhids/operation/events/cnnvdintroduction)
-    * 日志
-        * [日志功能](security/uhids/operation/log/introduce)
-    * 快照
-        * [数据快照](security/uhids/operation/netdetect/introduce)
+
     * [Agent管理](security/uhids/operation/agent)
     * [白名单](security/uhids/operation/whitelist)
     * [告警设置](security/uhids/operation/alert)
