@@ -1,6 +1,6 @@
-<div class="sidebar_title icon__uhids"> 主机入侵检测 UHIDS</div>
+# 概览
 
-* [概览](/uhids/README)
+
 * 产品简介
     * [产品概述](/uhids/common/overview)
     * [名词解释](/uhids/common/term)

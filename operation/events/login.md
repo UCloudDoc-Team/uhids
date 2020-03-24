@@ -4,9 +4,9 @@
 
 登录安全检测您服务器上的登录行为，对于在非常用登录地的登录行为进行告警。
 
-**检测原理和检测周期：**登录安全的[检测原理和检测周期](/security/uhids/function/login)。
+**检测原理和检测周期：**登录安全的[检测原理和检测周期](uhids/function/login)。
 
-**相关功能：**包括添加[常用登录地和常用登录IP](/security/uhids/operation/whitelist)；[告警设置](/security/uhids/operation/alert)。
+**相关功能：**包括添加[常用登录地和常用登录IP](uhids/operation/whitelist)；[告警设置](uhids/operation/alert)。
 
 ## 异地登录
 

@@ -8,17 +8,17 @@
 
 ## 购买防护点
 
-顶部展示当前的版本，及提供【购买防护点】、【自动续点】和【自动设置企业版】的操作。详细描述参见[防护点工具栏](/security/uhids/operation/buy)。
+顶部展示当前的版本，及提供【购买防护点】、【自动续点】和【自动设置企业版】的操作。详细描述参见[防护点工具栏](uhids/operation/buy)。
 
 一些常见FAQ如下：
 
-1\. [免费版和企业版的区别](/security/uhids/faq/version)
+1\. [免费版和企业版的区别](uhids/faq/version)
 
-2\. [防护点的价格](/security/uhids/price)
+2\. [防护点的价格](uhids/price)
 
-3\. [什么是自动续点?](/security/uhids/operation/buy)
+3\. [什么是自动续点?](uhids/operation/buy)
 
-4\. [什么是自动设置企业版？](/security/uhids/operation/buy)
+4\. [什么是自动设置企业版？](uhids/operation/buy)
 
 ## 未处理安全事件
 
