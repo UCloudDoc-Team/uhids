@@ -33,13 +33,4 @@
     * [如何修复主机漏洞？](/uhids/faq/bugs)
     * [免费版与企业版的区别？](/uhids/faq/version)
 * [升级记录](/uhids/upgrades)
-
-   
-    
-    
-    
-    
-   
-   
-    
-        
+  
