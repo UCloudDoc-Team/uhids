@@ -2,7 +2,7 @@
 
 
 * 产品简介
-    * [产品概述](/uhids/common/overview)
+    * [产品概述。](/uhids/common/overview)
     * [名词解释](/uhids/common/term)
     * [产品优势](/uhids/common/advantage)
     * [主要功能](/uhids/common/function)
