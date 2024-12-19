@@ -2,6 +2,9 @@
 
 # 安装报错
 
+## 权限问题
+安装的时候请务必使用ROOT权限执行UHIDS主机入侵检测的Agent安装,执行脚本前需要赋予脚本执行权限如:chmod +x install.sh
+
 ## 安装Agent提示“Permission denied”错误
 
 您在 Linux 系统服务器中安装 Agent 时，收到“Permission denied”的错误提示。
