@@ -16,19 +16,20 @@
 
 ## 检测项
 
-| 分类  | 检测项            | 说明                               | 对应版本 |
-| 应用   |	Apache HTTPD 多后缀解析漏洞 |   检查服务于配置的设置情况,避免默认启用有风险的选项 | V3.0 |
-| 应用   |	Apache Log4J2 RCE漏洞(CVE-2021-44228) |   请及时升级运行中的Apache Log4J版本 | V3.0 |
-| 应用   |	Apache ActiveMQ 远程代码执行漏洞 |   请及时升级当前部署的Apache ActiveMQ版本 | V3.0 |
-| Web应用|  Web-CMS 漏洞     | 最新的漏洞预警和相关补丁。                    | V3.0 |
-| 应用   |	OpenSSH 远程代码执行漏洞 |   请及时升级当前部署的OpenSSH版本 | V3.0 |
-| 应用   |	MySQL2远程代码执行漏洞 |   请及时升级当前部署的MySQL2版本 | V3.0 |
-| 应用   |	Apache Kafka访问控制不当漏洞 |   请及时升级当前部署的Kafka版本 | V3.0 |
-| 应用   |	liblzma/xz工具库恶意后门植入漏洞 |   请及时升级当前部署的xz版本 | V3.0 |
-| 应用   |	runc容器逃逸漏洞 |   请及时升级当前部署的Docker版本 | V3.0 |
-| 应用   |	OpenSSH ProxyCommand命令注入漏洞 |   请及时升级当前部署的OpenSSH版本 | V3.0 |
-| 应用   |	Fortinet FortiOS SSL-VPN 远程代码执行漏洞 |   请及时升级当前部署的Fortinet FortiOS SSL-VPN版本 | V3.0 |
-| 应用   |	泛微E-Office任意代码执行漏洞 |   请及时升级当前部署的泛微E-Office版本 | V3.0 |
-| 应用   |	Jenkins Remoting 任意文件读取漏洞 |   请及时升级当前部署的Jenkins版本 | V3.0 |
+| 分类    | 检测项                                     | 说明                                          | 对应版本 |
+|---------|-------------------------------------------|-----------------------------------------------|----------|
+| 应用    | Apache HTTPD 多后缀解析漏洞               | 检查服务于配置的设置情况，避免默认启用有风险的选项  | V3.0     |
+| 应用    | Apache Log4J2 RCE漏洞 (CVE-2021-44228)    | 请及时升级运行中的 Apache Log4J 版本         | V3.0     |
+| 应用    | Apache ActiveMQ 远程代码执行漏洞          | 请及时升级当前部署的 Apache ActiveMQ 版本    | V3.0     |
+| Web应用 | Web-CMS 漏洞                              | 最新的漏洞预警和相关补丁                      | V3.0     |
+| 应用    | OpenSSH 远程代码执行漏洞                  | 请及时升级当前部署的 OpenSSH 版本            | V3.0     |
+| 应用    | MySQL2 远程代码执行漏洞                   | 请及时升级当前部署的 MySQL2 版本             | V3.0     |
+| 应用    | Apache Kafka 访问控制不当漏洞             | 请及时升级当前部署的 Kafka 版本              | V3.0     |
+| 应用    | liblzma/xz 工具库恶意后门植入漏洞         | 请及时升级当前部署的 xz 版本                 | V3.0     |
+| 应用    | runc 容器逃逸漏洞                         | 请及时升级当前部署的 Docker 版本             | V3.0     |
+| 应用    | OpenSSH ProxyCommand 命令注入漏洞         | 请及时升级当前部署的 OpenSSH 版本            | V3.0     |
+| 应用    | Fortinet FortiOS SSL-VPN 远程代码执行漏洞 | 请及时升级当前部署的 Fortinet FortiOS SSL-VPN 版本 | V3.0     |
+| 应用    | 泛微 E-Office 任意代码执行漏洞            | 请及时升级当前部署的泛微 E-Office 版本       | V3.0     |
+| 应用    | Jenkins Remoting 任意文件读取漏洞         | 请及时升级当前部署的 Jenkins 版本            | V3.0     |
 
 <wrap em>对应版本指产品的版本号，可以参见升级记录查看版本号及对应升级内容。</wrap>
