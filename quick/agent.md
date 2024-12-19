@@ -14,6 +14,7 @@ Agent由用户决定是否安装
   - RedHat
   - Open Suse
   - Gentoo
+  - Rocky
 
 **安装命令：**
 
