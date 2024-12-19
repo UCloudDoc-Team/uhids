@@ -14,7 +14,7 @@
     * [Agent安装和修复说明](/uhids/quick/agent)
 * 操作指南
     * [概览](/uhids/operation/overview)
-    * [防护点工具栏](/uhids/operation/buy)
+    * [企业版](/uhids/operation/buy)
     * 安全事件
         * [主机漏洞](/uhids/operation/events/bug)
         * [安全基线检查](/uhids/operation/events/baseline)
