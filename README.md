@@ -7,9 +7,18 @@
     * [主要功能](/uhids/common/function)
 * [架构和原理简介](/uhids/architecture)
 * 功能原理和检测周期
-    * [安全基线检查](/uhids/function/baseline)
-    * [木马检测](/uhids/function/muma)
-    * [登录安全](/uhids/function/login)
+    * [主机漏洞检查](/uhids/function/HostVuln)
+    * [安全基线检查](/uhids/function/BaseLine)
+    * [应用漏洞检查](/uhids/function/AppVuln)
+    * [Web漏洞检查](/uhids/function/WebVuln)
+    * [二进制木马检测](/uhids/function/TrojanVirus)
+    * [文件木马检测](/uhids/function/RootkitVirus)
+    * [恶意定时任务检测](/uhids/function/EvilScheduledTasks)
+    * [Web木马检测](/uhids/function/WebShell)
+    * [恶意通信检测](/uhids/function/EvilNetwork)
+    * [异地登陆](/uhids/function/AbnormalLogin)
+    * [爆破攻击成功](/uhids/function/LoginEnumerationAttackSuccess)
+    * [爆破攻击失败](/uhids/function/LoginEnumerationAttackFailed)
 * 快速上手
     * [Agent安装和修复说明](/uhids/quick/agent)
 * 操作指南
