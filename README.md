@@ -38,7 +38,6 @@
     * [Agent管理](/uhids/operation/agent)
     * [白名单](/uhids/operation/whitelist)
     * [告警设置](/uhids/operation/alert)
-    * [用量统计](/uhids/operation/statistics)
 * [产品价格](/uhids/price)
 * FAQ
     * [安装报错](/uhids/faq/install)
