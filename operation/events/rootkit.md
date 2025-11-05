@@ -22,4 +22,4 @@
 
 **木马的检测原理与检测周期**
 
-[木马的检测原理与检测周期](/security/uhids/function/RootkitVirus)
+[木马的检测原理与检测周期](/uhids/function/RootkitVirus)

@@ -23,4 +23,4 @@
 
 **恶意定时任务的检测原理与检测周期**
 
-[恶意定时任务的检测原理与检测周期](/security/uhids/function/EvilScheduledTasks)
+[恶意定时任务的检测原理与检测周期](/uhids/function/EvilScheduledTasks)

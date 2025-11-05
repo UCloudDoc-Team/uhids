@@ -23,4 +23,4 @@
 
 **Web木马的检测原理与检测周期**
 
-[Web木马的检测原理与检测周期](/security/uhids/function/WebShell)
+[Web木马的检测原理与检测周期](/uhids/function/WebShell)

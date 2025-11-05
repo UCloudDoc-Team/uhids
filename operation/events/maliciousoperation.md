@@ -23,4 +23,4 @@
 
 **恶意操作的检测原理与检测周期**
 
-[恶意操作的检测原理与检测周期](/security/uhids/function/MaliciousOperation)
+[恶意操作的检测原理与检测周期](/uhids/function/MaliciousOperation)

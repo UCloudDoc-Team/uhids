@@ -25,4 +25,4 @@
 
 **恶意通信的检测原理与检测周期**
 
-[恶意通信的检测原理与检测周期](/security/uhids/function/EvilNetwork)
+[恶意通信的检测原理与检测周期](/uhids/function/EvilNetwork)
