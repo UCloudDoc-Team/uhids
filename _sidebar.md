@@ -35,11 +35,13 @@
         * [文件木马检测](/uhids/operation/events/rootkit)
         * [恶意定时任务检测](/uhids/operation/events/evilscheduledtasks)
         * [恶意通信检测](/uhids/operation/events/evilnetwork)
+        * [恶意操作检测](/uhids/operation/events/maliciousoperation)
         * [登录安全](/uhids/operation/events/login)
         * [漏洞库说明](/uhids/operation/events/cnnvdintroduction)
     * [Agent管理](/uhids/operation/agent)
     * [白名单](/uhids/operation/whitelist)
     * [告警设置](/uhids/operation/alert)
+    * [智能分析](/uhids/operation/intelligentanalysis)
 * [产品价格](/uhids/price)
 * FAQ
     * [安装报错](/uhids/faq/install)

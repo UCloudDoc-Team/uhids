@@ -16,6 +16,7 @@
     * [恶意定时任务检测](/uhids/function/EvilScheduledTasks)
     * [Web木马检测](/uhids/function/WebShell)
     * [恶意通信检测](/uhids/function/EvilNetwork)
+    * [恶意操作检测](/uhids/function/MaliciousOperation)
     * [异地登陆](/uhids/function/AbnormalLogin)
     * [爆破攻击成功](/uhids/function/LoginEnumerationAttackSuccess)
     * [爆破攻击失败](/uhids/function/LoginEnumerationAttackFailed)
