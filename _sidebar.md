@@ -39,6 +39,7 @@
         * [登录安全](/uhids/operation/events/login)
         * [漏洞库说明](/uhids/operation/events/cnnvdintroduction)
     * [Agent管理](/uhids/operation/agent)
+      * [卸载插件](/uhids/operation/uninstall)
     * [白名单](/uhids/operation/whitelist)
     * [告警设置](/uhids/operation/alert)
     * [智能分析](/uhids/operation/IntelligentAnalysis)
