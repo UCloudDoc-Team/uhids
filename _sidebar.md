@@ -45,10 +45,10 @@
 * [产品价格](/uhids/price)
 * FAQ
     * [安装报错](/uhids/faq/install)
-    * [是否支持托管云？](/uhids/faq/types)
-    * [如何修复主机漏洞？](/uhids/faq/bugs)
-    * [免费版与企业版的区别？](/uhids/faq/version)
-    * [如何卸载HIDS](/uhids/operation/uninstall)
+    * [是否支持托管云?](/uhids/faq/types)
+    * [如何修复主机漏洞?](/uhids/faq/bugs)
+    * [免费版与企业版的区别?](/uhids/faq/version)
+    * [如何卸载HIDS?](/uhids/operation/uninstall)
 * [升级记录](/uhids/upgrades)
 
 
