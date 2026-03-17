@@ -39,7 +39,6 @@
         * [登录安全](/uhids/operation/events/login)
         * [漏洞库说明](/uhids/operation/events/cnnvdintroduction)
     * [Agent管理](/uhids/operation/agent)
-      - [卸载插件](/uhids/operation/uninstall)
     * [白名单](/uhids/operation/whitelist)
     * [告警设置](/uhids/operation/alert)
     * [智能分析](/uhids/operation/IntelligentAnalysis)
@@ -49,6 +48,7 @@
     * [是否支持托管云？](/uhids/faq/types)
     * [如何修复主机漏洞？](/uhids/faq/bugs)
     * [免费版与企业版的区别？](/uhids/faq/version)
+    * [如何卸载HIDS](/uhids/operation/uninstall)
 * [升级记录](/uhids/upgrades)
 
 
